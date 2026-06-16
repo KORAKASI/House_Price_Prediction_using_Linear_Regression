@@ -83,7 +83,7 @@ This dataset is publicly available and is commonly used for educational purposes
 
 This dataset is used strictly for educational and learning purposes as part of this machine learning project.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Jupyter Notebook**
@@ -95,7 +95,7 @@ This dataset is used strictly for educational and learning purposes as part of t
 
 ---
 
-## 🔄 Machine Learning Workflow
+##  Machine Learning Workflow
 
 1. Data Collection
 2. Data Preprocessing
