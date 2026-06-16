@@ -134,9 +134,7 @@ Where:
 
 The model performance was evaluated using standard regression metrics:
 
-- Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
 - R² Score
 
 > **Note:** Update this section with the actual evaluation metrics obtained from your notebook.
